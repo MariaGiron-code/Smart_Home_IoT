@@ -7,7 +7,7 @@
                                                        // DEFINICIÓN DE LOS PINES 
 //Pines para el sensor RFID
 #define SS_PIN 10  // Pin SDA (SS) del RFID conectado al pin 10 del Arduino
-#define RST_PIN 9   // Pin RST (Reset) del RFID conectado al pin 9 del Arduino
+#define RST_PIN 9  // Pin RST (Reset) del RFID conectado al pin 9 del Arduino
 
 //Pines para actuadores 
 #define SERVO_PIN 6 
